@@ -17,14 +17,14 @@ Retrieval-Augmented Generation (RAG) application that allows users to ask questi
 
 - Python 3.10.5
 - Required Python packages (see `requirements.txt`)
-- Google gemini key is needed. It needs to be put in `.env` file as <<YourApiKey>>
+- Google gemini key is needed. It needs to be put in `.env` file as <`YourApiKey`>
 
 ### Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/tmasmaliyev/Cocktail_Advisor_Chat.git
-   cd simple-rag-app
+   cd Cocktail_Advisor_Chat
    ```
 2. Install the required packages:
    ```bash
